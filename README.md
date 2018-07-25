@@ -1,2 +1,2 @@
 # Project-Alpha
-test
+Practice for Git
